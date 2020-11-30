@@ -1,0 +1,14 @@
+.h{
+    background-color: chartreuse;
+}
+ 
+  .wrap-login {
+   /* flex-direction: row; */
+      align-self: auto;
+      align-items: center;
+    width: 680px;
+    background: #fff;
+    border-radius: 10px;
+    position: relative ;
+    padding-bottom: 2px;
+}

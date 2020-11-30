@@ -1,0 +1,50 @@
+body{
+    background-image: url("./bg-01.jpg");
+    background-size: cover; 
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(188, 228, 229);
+    font-family: Montserrat-SemiBold;
+}
+
+.colorr{
+ color: lightgreen;
+}
+
+.nevbar-specification{
+    margin-top: 7em;
+    margin-left: -16px;
+    margin-right: -16px;
+}
+
+.navbar-br{
+    color: rgb(152, 158, 216);
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 2rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+
+.buttonextra{
+font-family: Montserrat-SemiBold;
+font-size: 18px;
+line-height: 1.2;
+display: -webkit-box;
+display: -webkit-flex;
+display: -moz-box;
+display: -ms-flexbox;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 15px;
+width: 100%;
+height: 70px;
+border-radius: 10px;
+
+}
+
